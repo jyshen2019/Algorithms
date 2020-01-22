@@ -1,5 +1,6 @@
-"""Are the parentheses in the string balanced?  And if not,
-   what is the position of the first offending parenthesis?
+"""Ex 3-1 Are the parentheses in the string balanced?  And if not,
+   what is the position of the first offending parenthesis? 
+   (Hard if multiple type of parens are in the string)
 """
 
 def paren_balanced(string):
